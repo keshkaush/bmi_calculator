@@ -2,7 +2,7 @@
 
 An App to calculate your BMI[body mass index]. PS: also provide a little interpretation.
 <p align="center">
-  <img src="Screenshot1.gif" width="350" title="hover text">
+  <img src="Screenshot1[1].gif" width="350" title="hover text">
 </p>
 
 
