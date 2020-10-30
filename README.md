@@ -1,6 +1,10 @@
 # bmi_calculator
 
-A app that calculates your BMI.
+An App to calculate your BMI[body mass index]. PS: also provide a little interpretation.
+<p align="center">
+  <img src="Screenshot1.gif" width="350" title="hover text">
+</p>
+
 
 ## Getting Started
 
